@@ -9,6 +9,6 @@ const path = require('path')
 module.exports = {
   baseDir: path.resolve(`${__dirname}`),
   inventoryDirs: ['items', 'items-outline'],
-  pokemonDirs: ['pokemon-gen7x', 'pokemon-gen8'],
+  pokemonDirs: ['pokemon-gen7x', 'pokemon-gen8', 'pokemon-gen9'],
   miscDirs: ['misc']
 }
